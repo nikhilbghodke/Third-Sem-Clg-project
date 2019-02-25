@@ -1,0 +1,16 @@
+{
+    "name": "neel/install",
+    "description": "PHP tutorial",
+    "type": "project",
+    "license": "GNU3",
+    "authors": [
+        {
+            "name": "Nikhil ghodke",
+            "email": "nikhil.ghodke17@vit.edu"
+        }
+    ],
+    "require": {
+        "kreait/firebase-php": "4.17.0",
+		"php": ">=7.2.0"
+    }
+}

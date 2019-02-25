@@ -1,0 +1,90 @@
+      /*
+base  #222831
+apricot #393e46
+citrus #00adb5
+apple core #eeeeee
+*/  
+     *{
+		 font-family:"Verdana";
+		 
+	 }
+     .main{
+      padding-top:100px;
+	  background-color:#eeeeee;
+     }
+	  .block{
+		  background-color:white;
+		  padding-top:10px;
+		  padding-bottom:10px;
+		  margin-right:10px;
+		  margin-top:15px;
+          box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+          margin-bottom:20px;
+          border-radius:15px;		  
+	  }
+	  .block:hover{
+		  box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3); 
+	  }
+	  .image{
+		  text-align:center;
+	  }
+	  .img-resize{
+		  width:65px;
+		  padding:2;
+	  }
+	  .question h2 {
+    color:rgb(34,34,34) !important;
+    overflow: hidden;
+    font-size: 20px;
+    font-weight: bold;
+    padding-right: 5px;
+	margin:0;
+	text-align:justify;
+	border-bottom:2px solid #00adb5;
+	padding-bottom:6px;
+     }
+	 .question h2:hover{
+		 color:#00adb5;
+	 }
+	 .indicator{
+		 min-height:70px;
+		 padding-top:5px;
+		 font-size: 12px;
+         font-weight: 400;
+         line-height: 16px;
+		 color:rgb(120,124,126);
+	 }
+	 .indicator .category{
+		 color:rgb(28,28,28);
+		 font-weight: 700;
+	 }
+	 .hov:hover
+	 {
+		 color:#00adb5;
+	 }
+	 .offset{
+		 min-height:10px;
+	 }
+	 .description{
+		 padding-top:6px;
+	 }
+	 .status{
+		 padding-top:7.5px;
+		 padding-bottom:7.5px;
+         color:#595555;
+		 text-align:center;
+	 }
+	 .status .far:hover{
+		color: #00adb5;
+	 }
+	  .status .fas:hover{
+		color: #00adb5;
+	 }
+	 status row i{
+		 padding-left:17px;
+		 
+	 }
+	 .solved {
+		 color:green;
+	 }
+	 
